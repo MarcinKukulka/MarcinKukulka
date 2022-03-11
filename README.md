@@ -29,7 +29,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][URLlinkedin] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][URLfacebook]
 
 ## :mortar_board: My programming life in stats and numbers:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinKukulka=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinKukulka&=dark)
 ![Marcin GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinKukulka&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 
 [URLemail]:mailto:marcinkukulka@gmail.com
