@@ -7,7 +7,7 @@
  - I read a lot of books (my favorite author is [Brandon Sanderson](https://www.brandonsanderson.com/)) :book:
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
- - I'm currently exploring **JavaScript** and **React** :eyes:
+ - I'm currently exploring **JavaScript**, **React** and **TypeScript** :eyes:
 
 
 ## ⚡  Technologies
