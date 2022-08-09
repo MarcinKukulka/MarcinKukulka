@@ -36,7 +36,7 @@
 
 ## :hammer_and_wrench:  Projects 
 
-:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.pl/)
+:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.pl/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
 ## :mortar_board: My programming life in stats and numbers:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinKukulka&theme=dark)
