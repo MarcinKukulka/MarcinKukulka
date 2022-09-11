@@ -6,6 +6,7 @@
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
  - I read a lot of books (my favorite author is [Brandon Sanderson](https://www.brandonsanderson.com/)) :book:
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
+ - I aspire to become a full-stack :globe_with_meridians:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
  - I'm currently exploring **JavaScript**, **React** and **TypeScript** :eyes:
 
