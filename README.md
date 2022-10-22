@@ -21,13 +21,10 @@
 ![React Router](https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat)
 
-![Node](https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/Express-gray?style=flat)
+![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=flat) 
-![Gulp](https://img.shields.io/badge/Gulp-%23CF4647?logo=gulp&logoColor=white&style=flat)
 ![Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat)
 ![ESLint](https://img.shields.io/badge/ESLint-purple?logo=eslint&logoColor=white&style=flat)
 ![Prettier](https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat)
