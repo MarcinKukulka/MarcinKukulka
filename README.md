@@ -41,7 +41,7 @@
 
 
 
-## :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
+### :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
 
 During this time I have learned about:
 
