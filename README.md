@@ -47,9 +47,13 @@ During this time I have learned about:
 
 Below are links to projects in which I was involved:
 [Jobiz](https://github.com/CodersCampCrew/Jobiz) - Front-End and Back-End knowledge quiz (HTML, CSS, JS),
+
 [Cookbook](https://github.com/CodersCampCrew/Cookbook) - simple cookbook (React),
+
 [Pets Adopt and Care Portal](https://github.com/CodersCampCrew/CodersCamp2021-ProjectServerSideJavaScript-PetsAdoptAndCarePortal) - A simple backend project to gain hands-on knowledge of NodeJS, REST APIs, NoSQL and CRUD (Node, Express, MongoDB),
+
 [Ukraine Helper](https://github.com/CodersCampCrew/Ukraine-helper) - application to provide rapid assistance to war refugees (React, TypeScript),
+
 [Teacher Assistant](https://github.com/CodersCampCrew/Teacher-Assistant) - app for tutors to manage their students (NextJS, TypeScript)
 
 
