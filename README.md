@@ -39,7 +39,9 @@
 
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.eu/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
-:notebook_with_decorative_cover: I also worked on many non-commercial team projects.
+
+
+## :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
 
 During this time I have learned about:
 
