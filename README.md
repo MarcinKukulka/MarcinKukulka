@@ -42,8 +42,11 @@
 :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
 
 During this time I have learned about:
-•	React, the ecosystem around it and how to create components. 
+
+•	React, the ecosystem around it and how to create components.
+
 •	REST API, how to manage state in an application, and how to create a server.
+
 • What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
 
 Below are links to projects in which I was involved:
