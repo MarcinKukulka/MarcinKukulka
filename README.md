@@ -39,6 +39,20 @@
 
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.eu/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
+:notebook_with_decorative_cover: I also worked on many non-commercial team projects.
+During this time I have learned about:
+•	React, the ecosystem around it and how to create components. 
+•	REST API, how to manage state in an application, and how to create a server.
+• What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
+
+Below are links to projects in which I was involved:
+[Jobiz](https://github.com/CodersCampCrew/Jobiz) - Front-End and Back-End knowledge quiz (HTML, CSS, JS),
+[Cookbook](https://github.com/CodersCampCrew/Cookbook) - simple cookbook (React),
+[Pets Adopt and Care Portal](https://github.com/CodersCampCrew/CodersCamp2021-ProjectServerSideJavaScript-PetsAdoptAndCarePortal) - A simple backend project to gain hands-on knowledge of NodeJS, REST APIs, NoSQL and CRUD (Node, Express, MongoDB),
+[Ukraine Helper](https://github.com/CodersCampCrew/Ukraine-helper) - application to provide rapid assistance to war refugees (React, TypeScript),
+[Teacher Assistant](https://github.com/CodersCampCrew/Teacher-Assistant) - app for tutors to manage their students (NextJS, TypeScript)
+
+
 ## Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][URLlinkedin] 
