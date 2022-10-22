@@ -39,10 +39,6 @@
 
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.eu/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
-## :mortar_board: My programming life in stats and numbers:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinKukulka&theme=dark)
-![Marcin GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinKukulka&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
-
 ## Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][URLlinkedin] 
