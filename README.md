@@ -34,7 +34,8 @@
 
 ## :hammer_and_wrench:  Projects 
 
-:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. Coded by myself [[demo]](https://lapelle.eu/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
+:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. e. I was entirely responsible for
+the whole project [[demo]](https://lapelle.eu/) [[demoNetlify]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
 
 
