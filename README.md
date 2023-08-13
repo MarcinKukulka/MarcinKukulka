@@ -61,7 +61,7 @@ Below are links to projects in which I was involved:
 [Teacher Assistant](https://github.com/CodersCampCrew/Teacher-Assistant) - app for tutors to manage their students (NextJS, TypeScript)
 
 ## Stats
-![Marcin's GitHub stats](https://github-readme-stats-marcinkukulka.vercel.app/api?username=MarcinKukulka&show_icons=true&theme=transparent&hide=stars)![Top Langs](https://github-readme-stats-marcinkukulka.vercel.app/api/top-langs/?username=MarcinKukulka&layout=compact&size_weight=0.5&count_weight=0.5)
+![Marcin's GitHub stats](https://github-readme-stats-marcinkukulka.vercel.app/api?username=MarcinKukulka&show_icons=true&theme=transparent&hide=stars)  ![Top Langs](https://github-readme-stats-marcinkukulka.vercel.app/api/top-langs/?username=MarcinKukulka&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ## Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] 
