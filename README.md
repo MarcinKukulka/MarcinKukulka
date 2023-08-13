@@ -36,7 +36,12 @@
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. I was entirely responsible for
 the whole project [[demo]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
+:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization where I am currently its vice president 
 
+:cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir
+
+Currently working on: 
+[Art store](https://github.com/MarcinKukulka/art-store-admin-panel) - The admin panel for the art store
 
 ### :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
 
@@ -49,6 +54,8 @@ During this time I have learned about:
 • What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
 
 Below are links to projects in which I was involved:
+<details>
+<summary>See projects</summary>
 
 [Jobiz](https://github.com/CodersCampCrew/Jobiz) - Front-End and Back-End knowledge quiz (HTML, CSS, JS),
 
@@ -59,10 +66,13 @@ Below are links to projects in which I was involved:
 [Ukraine Helper](https://github.com/CodersCampCrew/Ukraine-helper) - application to provide rapid assistance to war refugees (React, TypeScript),
 
 [Teacher Assistant](https://github.com/CodersCampCrew/Teacher-Assistant) - app for tutors to manage their students (NextJS, TypeScript)
+</details>
+
+
 
 ## Stats
 ![Marcin's GitHub stats](https://github-readme-stats-marcinkukulka.vercel.app/api?username=MarcinKukulka&show_icons=true&&include_all_commits=true&theme=transparent&hide=stars&rank_icon=github)  
-![Top Langs](https://github-readme-stats-marcinkukulka.vercel.app/api/top-langs/?username=MarcinKukulka&layout=compact&size_weight=0&count_weight=1&theme=transparent)
+![Top Langs](https://github-readme-stats-marcinkukulka.vercel.app/api/top-langs/?username=MarcinKukulka&layout=compact&size_weight=10&count_weight=1&theme=transparent)
 
 ## Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] 
