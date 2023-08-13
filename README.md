@@ -2,7 +2,6 @@
  ### Thanks for viewing my GitHub Profile! :hugs:
  
  ## :frowning_man: About me
- - I'm just starting my adventure in the world of Front-end Development :computer:
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
  - I read a lot of books (my favorite author is [Brandon Sanderson](https://www.brandonsanderson.com/)) :book:
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
