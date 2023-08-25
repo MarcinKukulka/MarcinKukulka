@@ -13,11 +13,10 @@
 ## ⚡  Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=flat) ![SASS](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)
 
 
-![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white&style=flat) 
-![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=black&style=flat) 
+![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white&style=flat) ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=black&style=flat) 
 
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=flat)
  ![Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/ESLint-purple?logo=eslint&logoColor=white&style=flat) ![Prettier](https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat)
