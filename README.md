@@ -44,6 +44,8 @@ During this time I have learned about:
 
 •	REST API, how to manage state in an application, and how to create a server.
 
+• How to use Git and GitHub in teamwork
+
 • What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
 
 Below are links to projects in which I was involved:
