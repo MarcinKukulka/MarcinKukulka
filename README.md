@@ -19,7 +19,7 @@
 ![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white&style=flat) ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=black&style=flat) 
 
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=flat)
- ![Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/ESLint-purple?logo=eslint&logoColor=white&style=flat) ![Prettier](https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat)
+![ESLint](https://img.shields.io/badge/ESLint-purple?logo=eslint&logoColor=white&style=flat) ![Prettier](https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=Visual-Studio-Code&logoColor=white&style=flat)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=wihte&style=flat)
