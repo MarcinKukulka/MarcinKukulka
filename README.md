@@ -29,9 +29,9 @@
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. I was entirely responsible for
 the whole project [[demo]](https://gracious-shaw-d6a8c3.netlify.app/) 
 
-:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization where I am currently its vice president 
+:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization where I am currently its vice president [[demo]](https://coderscrew-website.vercel.app/)
 
-:cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir
+:cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir [[demo]](https://wnieboglosy.vercel.app/)
 
 Currently working on: 
 [Art store](https://github.com/MarcinKukulka/art-store-admin-panel) - The admin panel for the art store
