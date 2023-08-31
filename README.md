@@ -7,7 +7,7 @@
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
  - I aspire to become a full-stack :globe_with_meridians:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
- - I'm currently exploring **JavaScript**, **React** and **TypeScript** :eyes:
+ - I'm currently exploring **JavaScript**, **React**, **TypeScript** and **Next.js** :eyes:
 
 
 ## ⚡  Technologies
