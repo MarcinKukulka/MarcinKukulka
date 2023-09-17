@@ -67,7 +67,7 @@ Below are links to projects in which I was involved:
 
 ## Stats
 ![Marcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinKukulka&show_icons=true&&include_all_commits=true&theme=transparent&hide=stars&rank_icon=github)  
-![Top Langs](https://github-readme-stats.vercel.app/api?usernamee=MarcinKukulka&layout=compact&size_weight=0&count_weight=3&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=MarcinKukulka&layout=compact&size_weight=0&count_weight=3&theme=transparent)
 
 ## Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][URLemail] 
