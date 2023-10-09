@@ -33,6 +33,8 @@ the whole project [[demo]](https://gracious-shaw-d6a8c3.netlify.app/)
 
 :cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir [[demo]](https://wnieboglosy.vercel.app/)
 
+[BryzaInnowacji](https://hack-yeah23.vercel.app/) - App created durin HackYeah hackaton in 2023 
+
 
 ### :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
 
