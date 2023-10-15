@@ -1,7 +1,8 @@
 # Hi, I’m Marcin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
- ### Thanks for viewing my GitHub Profile! :hugs:
+
+### Thanks for viewing my GitHub Profile! :hugs:
  
- ## :frowning_man: About me
+## :frowning_man: About me
  - I'm currently exploring **JavaScript**, **React**, **TypeScript** and **Next.js** :eyes:
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
