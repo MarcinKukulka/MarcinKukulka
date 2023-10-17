@@ -49,6 +49,8 @@ During this time I have learned about:
 
 • What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
 
+• And how to have fun while coding
+
 Below are links to projects in which I was involved:
 <details>
 <summary>See projects</summary>
