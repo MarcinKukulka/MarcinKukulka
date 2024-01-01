@@ -27,8 +27,8 @@
 
 ## :hammer_and_wrench:  Projects 
 
-:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/LaPelle) - My first commercial project. I was entirely responsible for
-the whole project [[demo]](https://gracious-shaw-d6a8c3.netlify.app/) 
+:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/lapelle-v2) - My first commercial project. I was entirely responsible for
+the whole project [[demo]](https://lapelle-v2.vercel.app/) 
 
 :passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization where I am currently its vice president [[demo]](https://coderscrew-website.vercel.app/)
 
