@@ -38,7 +38,6 @@ the whole project [[demo]](https://lapelle-v2.vercel.app/)
 
 
 ### :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
-
 During this time I have learned about:
 
 •	React, the ecosystem around it and how to create components.
