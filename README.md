@@ -52,7 +52,7 @@ During this time I have learned about:
 
 Below are links to projects in which I was involved:
 <details>
-#### <summary>See projects</summary>
+### <summary>See projects</summary>
 
 [Jobiz](https://github.com/CodersCampCrew/Jobiz) - Front-End and Back-End knowledge quiz (HTML, CSS, JS),
 
