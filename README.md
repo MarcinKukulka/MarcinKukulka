@@ -50,7 +50,7 @@ During this time I have learned about:
 
 • And how to have fun while coding
 
-Below are links to projects in which I was involved:
+### Below are links to projects in which I was involved:
 <details>
 <summary><b>See projects</b></summary>
 
