@@ -30,7 +30,7 @@
 :globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/lapelle-v2) - My first commercial project. I was entirely responsible for
 the whole project [[demo]](https://lapelle-v2.vercel.app/) 
 
-:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization where I am currently its vice president [[demo]](https://coderscrew-website.vercel.app/)
+:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization [[demo]](https://coderscrew-website.vercel.app/)
 
 :cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir [[demo]](https://wnieboglosy.vercel.app/)
 
