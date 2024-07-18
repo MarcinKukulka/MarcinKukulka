@@ -5,7 +5,6 @@
 ## :frowning_man: About me
  - I'm currently exploring **TypeScript** and **Next.js** :eyes:
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
- - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
  - I aspire to become a full-stack :globe_with_meridians:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
  - I read a lot of books (my favorite author is [Brandon Sanderson](https://www.brandonsanderson.com/)) :book:
