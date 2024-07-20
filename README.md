@@ -11,7 +11,7 @@
 
 
 ## ⚡  Technologies
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=flat) ![SASS](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&style=flat)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat) ![TanStack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=flat) ![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)
 
