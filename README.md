@@ -3,7 +3,7 @@
 ### Thanks for viewing my GitHub Profile! :hugs:
  
 ## :frowning_man: About me
- - I'm currently exploring **TypeScript** and **Next.js** :eyes:
+ - I'm currently exploring **AI - assisted development** :eyes:
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
  - I aspire to become a full-stack :globe_with_meridians:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
@@ -23,44 +23,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=Visual-Studio-Code&logoColor=white&style=flat)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=wihte&style=flat)
-
-## :hammer_and_wrench:  Projects 
-
-:globe_with_meridians: [La Pelle](https://github.com/MarcinKukulka/lapelle-v2) - My first commercial project. I was entirely responsible for
-the whole project [[demo]](https://lapelle-v2.vercel.app/) 
-
-:passenger_ship: [CodersCrew](https://github.com/CodersCrew/coderscrew-website) - The website of the non-profit organization [[demo]](https://coderscrew-website.vercel.app/)
-
-:cloud: [wNieboGłosy](https://github.com/CodersCrew/wNieboGlosy/) - The website of Wrocław choir [[demo]](https://wnieboglosy.vercel.app/)
-
-
-### :notebook_with_decorative_cover: I also worked on many non-commercial team projects.
-During this time I have learned about:
-
-•	React, the ecosystem around it and how to create components.
-
-•	REST API, how to manage state in an application, and how to create a server.
-
-• How to use Git and GitHub in teamwork
-
-• What teamwork looks like. How to push changes to the branch, how to create PR, give CR and merge to the main branch
-
-• And how to have fun while coding
-
-### Below are links to projects in which I was involved:
-<details>
-<summary><b>See projects</b></summary>
-
-[Jobiz](https://github.com/CodersCampCrew/Jobiz) - Front-End and Back-End knowledge quiz (HTML, CSS, JS),
-
-[Cookbook](https://github.com/CodersCampCrew/Cookbook) - simple cookbook (React),
-
-[Pets Adopt and Care Portal](https://github.com/CodersCampCrew/CodersCamp2021-ProjectServerSideJavaScript-PetsAdoptAndCarePortal) - A simple backend project to gain hands-on knowledge of NodeJS, REST APIs, NoSQL and CRUD (Node, Express, MongoDB),
-
-[Ukraine Helper](https://github.com/CodersCampCrew/Ukraine-helper) - application to provide rapid assistance to war refugees (React, TypeScript),
-
-[Teacher Assistant](https://github.com/CodersCampCrew/Teacher-Assistant) - app for tutors to manage their students (NextJS, TypeScript)
-</details>
 
 
 
